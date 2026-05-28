@@ -1,0 +1,15 @@
+C:\Users\ricky\OneDrive\Escritorio\Codigos\bin\Debug\net10.0\Codigos.exe
+C:\Users\ricky\OneDrive\Escritorio\Codigos\bin\Debug\net10.0\Codigos.deps.json
+C:\Users\ricky\OneDrive\Escritorio\Codigos\bin\Debug\net10.0\Codigos.runtimeconfig.json
+C:\Users\ricky\OneDrive\Escritorio\Codigos\bin\Debug\net10.0\Codigos.dll
+C:\Users\ricky\OneDrive\Escritorio\Codigos\bin\Debug\net10.0\Codigos.pdb
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.AssemblyInfoInputs.cache
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.AssemblyInfo.cs
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.sourcelink.json
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.dll
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\refint\Codigos.dll
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.pdb
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\Codigos.genruntimeconfig.cache
+C:\Users\ricky\OneDrive\Escritorio\Codigos\obj\Debug\net10.0\ref\Codigos.dll
